@@ -1,10 +1,8 @@
 # Hola, soy Joel David Montilla
 
-<img align="left" width="64" height="64" src="./assets/python.svg" alt="Logo de Python">
+[![Python](./assets/python.svg)](https://www.python.org/)
 
 **Python es mi lenguaje principal.** Estudio en el Instituto Tecnológico de las Américas (ITLA). Con Python he creado desde programas de consola hasta un asistente que consulta fuentes para responder preguntas.
-
-<br clear="left">
 
 ## Proyectos destacados
 
@@ -30,6 +28,4 @@ Dos aplicaciones para probar directamente en el navegador: un registro de gastos
 
 ## Otras tecnologías que uso
 
-| <img src="./assets/javascript.svg" width="36" alt=""> | <img src="./assets/cplusplus.svg" width="36" alt=""> | <img src="./assets/postgresql.svg" width="36" alt=""> | <img src="./assets/supabase.svg" width="36" alt=""> |
-| :---: | :---: | :---: | :---: |
-| JavaScript | C++ | PostgreSQL | Supabase |
+[![JavaScript](./assets/javascript.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [![C++](./assets/cplusplus.svg)](https://isocpp.org/) [![PostgreSQL](./assets/postgresql.svg)](https://www.postgresql.org/) [![Supabase](./assets/supabase.svg)](https://supabase.com/)
