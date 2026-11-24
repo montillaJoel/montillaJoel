@@ -1,4 +1,4 @@
-# Hola, soy Joel David Montilla
+![Joel David Montilla · Desarrollo con Python](./assets/banner.svg)
 
 **Python es mi lenguaje principal.** Estudio en el Instituto Tecnológico de las Américas (ITLA). Con Python he creado desde programas de consola hasta un asistente que consulta fuentes para responder preguntas.
 

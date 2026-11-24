@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 196" width="1000" height="196" role="img" aria-labelledby="title">
+  <title id="title">Joel David Montilla · Desarrollo con Python</title>
+  <defs>
+    <linearGradient id="bg" x2="1" y2=".45" gradientUnits="objectBoundingBox"><stop stop-color="#102235"/><stop offset="1" stop-color="#173955"/></linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#88adc8" opacity=".22"/></pattern>
+  </defs>
+  <rect width="1000" height="196" rx="16" fill="url(#bg)"/>
+  <rect x="650" width="330" height="196" fill="url(#dots)"/>
+  <path d="M54 59h37" stroke="#ffd451" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="50" y="117" font-size="54" font-weight="700" fill="#f5f9fc">Joel David Montilla</text>
+    <text x="54" y="152" font-size="21" fill="#bcd6ea">Desarrollo con Python</text>
+  </g>
+  <g fill="none" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m763 73 34 25-34 25m50 0h34" stroke="#77b5e3"/>
+    <path d="m862 73 34 25-34 25" stroke="#ffd451"/>
+  </g>
+</svg>
