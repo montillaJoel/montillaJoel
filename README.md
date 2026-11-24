@@ -1,14 +1,35 @@
 # Hola, soy Joel David Montilla
 
-Estudio en el Instituto Tecnológico de las Américas (ITLA) y **Python es mi lenguaje principal**. Lo uso tanto para crear herramientas de consola como para desarrollar un asistente que investiga preguntas con Gemini y LangChain.
+<img align="left" width="64" height="64" src="./assets/python.svg" alt="Logo de Python">
 
-También trabajo con **JavaScript** y **C++**, y uso **PostgreSQL** y **Supabase** para trabajar con datos.
+**Python es mi lenguaje principal.** Estudio en el Instituto Tecnológico de las Américas (ITLA). Con Python he creado desde programas de consola hasta un asistente que consulta fuentes para responder preguntas.
+
+<br clear="left">
 
 ## Proyectos destacados
 
-| Proyecto | Qué puedes explorar |
-| --- | --- |
-| [Agente de investigación](https://github.com/montillaJoel/agente#readme) | Un asistente en **Python** que recibe una pregunta, puede consultar Wikipedia y DuckDuckGo y devuelve un resumen con fuentes. El README muestra un ejemplo sobre Ada Lovelace. |
-| [Seis programas de consola en Python](https://github.com/montillaJoel/python-beginner-projects-by-Joel-David#readme) | Una lista de tareas, un juego de adivinanza, una calculadora, un conversor de temperatura, un generador de contraseñas y una alarma. Cada programa incluye su comando de ejecución en el README. |
-| [loginUsers](https://github.com/montillaJoel/loginUsers#readme) | Aplicación de escritorio en **Java Swing y MySQL** para registrar usuarios, iniciar sesión y administrar cuentas. Puedes ver el panel de usuarios y una demostración en video. |
-| [Portafolio web](https://github.com/montillaJoel/Joel-David-Portfolio#readme) | Sitio en **HTML, CSS y JavaScript** con dos aplicaciones que puedes probar en el navegador: un registro de gastos y una lista de tareas. [Visitar el sitio](https://montillajoel.github.io/Joel-David-Portfolio/) |
+### 🔎 [Agente de investigación](https://github.com/montillaJoel/agente#readme)
+
+**Python · Gemini · LangChain**  
+¿Qué relación tuvo Ada Lovelace con la máquina analítica? Esta pregunta sirve de ejemplo para mostrar cómo el agente puede consultar Wikipedia o DuckDuckGo y devolver un resumen con fuentes. [Ver la consulta y su respuesta ilustrativa →](https://github.com/montillaJoel/agente#una-consulta-de-principio-a-fin)
+
+### 🐍 [Seis programas de consola](https://github.com/montillaJoel/python-beginner-projects-by-Joel-David#readme)
+
+**Python · Biblioteca estándar**  
+Juega a adivinar un número, organiza tus tareas o prueba la calculadora, el conversor de temperatura, el generador de contraseñas y la alarma. [Elegir un programa y ejecutarlo →](https://github.com/montillaJoel/python-beginner-projects-by-Joel-David#cómo-ejecutarlos)
+
+### 🖥️ [loginUsers](https://github.com/montillaJoel/loginUsers#readme)
+
+**Java Swing · MySQL**  
+Aplicación de escritorio para registrar cuentas e iniciar sesión. Desde el panel puedes consultar, editar y eliminar usuarios. [Ver el panel de usuarios →](https://github.com/montillaJoel/loginUsers/blob/main/docs/panel-usuarios.png)
+
+### 🌐 [Portafolio web](https://github.com/montillaJoel/Joel-David-Portfolio#readme)
+
+**HTML · CSS · JavaScript**  
+Dos aplicaciones para probar directamente en el navegador: un registro de gastos personales y una lista de tareas. [Visitar el portafolio →](https://montillajoel.github.io/Joel-David-Portfolio/)
+
+## Otras tecnologías que uso
+
+| <img src="./assets/javascript.svg" width="36" alt=""> | <img src="./assets/cplusplus.svg" width="36" alt=""> | <img src="./assets/postgresql.svg" width="36" alt=""> | <img src="./assets/supabase.svg" width="36" alt=""> |
+| :---: | :---: | :---: | :---: |
+| JavaScript | C++ | PostgreSQL | Supabase |
