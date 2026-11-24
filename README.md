@@ -1,8 +1,8 @@
 # Hola, soy Joel David Montilla
 
-[![Python](./assets/python.svg)](https://www.python.org/)
-
 **Python es mi lenguaje principal.** Estudio en el Instituto Tecnológico de las Américas (ITLA). Con Python he creado desde programas de consola hasta un asistente que consulta fuentes para responder preguntas.
+
+[![Python](./assets/python.svg)](https://www.python.org/) [![JavaScript](./assets/javascript.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [![C++](./assets/cplusplus.svg)](https://isocpp.org/) [![PostgreSQL](./assets/postgresql.svg)](https://www.postgresql.org/) [![Supabase](./assets/supabase.svg)](https://supabase.com/)
 
 ## Proyectos destacados
 
@@ -25,7 +25,3 @@ Aplicación de escritorio para registrar cuentas e iniciar sesión. Desde el pan
 
 **HTML · CSS · JavaScript**  
 Dos aplicaciones para probar directamente en el navegador: un registro de gastos personales y una lista de tareas. [Visitar el portafolio →](https://montillajoel.github.io/Joel-David-Portfolio/)
-
-## Otras tecnologías que uso
-
-[![JavaScript](./assets/javascript.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [![C++](./assets/cplusplus.svg)](https://isocpp.org/) [![PostgreSQL](./assets/postgresql.svg)](https://www.postgresql.org/) [![Supabase](./assets/supabase.svg)](https://supabase.com/)
