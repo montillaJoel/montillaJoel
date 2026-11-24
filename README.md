@@ -1,10 +1,10 @@
 ![Joel David Montilla · Desarrollo con Python](./assets/banner.svg)
 
-Estudio en el **Instituto Tecnológico de las Américas (ITLA)** y **Python es mi lenguaje principal**. Mis primeros proyectos fueron programas pequeños que podía probar desde la terminal: una calculadora, una alarma y un juego de adivinanzas. En mi agente de investigación uso esa misma interfaz para algo distinto: escribir una pregunta y recibir un resumen con fuentes.
+Estudio en el **Instituto Tecnológico de las Américas (ITLA)**. **Python es mi lenguaje principal y FastAPI, mi framework principal para desarrollar APIs**. Mis primeros proyectos fueron programas pequeños que podía probar desde la terminal: una calculadora, una alarma y un juego de adivinanzas. En mi agente de investigación uso esa misma interfaz para algo distinto: escribir una pregunta y recibir un resumen con fuentes.
 
 También desarrollo para el navegador con **HTML, CSS y JavaScript**. En escritorio, construí una aplicación con **Java Swing y MySQL** para gestionar cuentas de usuario. Además de las tecnologías que aparecen en esos proyectos, trabajo con **C++, PostgreSQL y Supabase**.
 
-[![Python](./assets/python.svg)](https://www.python.org/) [![JavaScript](./assets/javascript.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [![C++](./assets/cplusplus.svg)](https://isocpp.org/) [![PostgreSQL](./assets/postgresql.svg)](https://www.postgresql.org/) [![Supabase](./assets/supabase.svg)](https://supabase.com/)
+[![Python](./assets/python.svg)](https://www.python.org/) [![FastAPI](./assets/fastapi.svg)](https://fastapi.tiangolo.com/) [![JavaScript](./assets/javascript.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [![C++](./assets/cplusplus.svg)](https://isocpp.org/) [![PostgreSQL](./assets/postgresql.svg)](https://www.postgresql.org/) [![Supabase](./assets/supabase.svg)](https://supabase.com/)
 
 ## Proyectos destacados
 
